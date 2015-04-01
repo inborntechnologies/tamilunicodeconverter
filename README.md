@@ -9,4 +9,4 @@ The application can also extract text from PowerPoint files and convert them to 
 
 This project started out as my Church planned to use OpenLP instead of PowerPoint to project songs. Since
 most of our songs were in PowerPoint and were in a non-unicode font (TamilBible), there was a need to extract
-the content out from PowerePoint files and convert them to standard unicode Tamil.
+the content out from PowerPoint files and convert them to standard unicode Tamil.
