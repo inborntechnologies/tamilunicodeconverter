@@ -1,4 +1,4 @@
-# Tamil Unicode Converter
+# Bamini to Unicode Tamil Converter
 
 This is a small command-line Java application that can convert Tamil text encoded in Bamini (and it's variants
 like TamilBible) to its unicode equivalent.
